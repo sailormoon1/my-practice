@@ -1,5 +1,8 @@
 package com.guomengmeng.practice.mypractice.algorithm.String;
 
+/**
+ * 两个非常大的数字字符串做加
+ */
 public class TowStringSum {
     public static void main(String[] args) {
         String str = "456";
